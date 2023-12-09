@@ -4,20 +4,22 @@ Email: laurentesuico@gmail.com
 Location:  Antipolo City, Rizal 1870
 Mobile: 0995-920-1467
 
-SUMMARY OF QUALIFICATIONS
+Objectives
 
-Goal-oriented IT expert with a strong focus on achieving success, delivering tangible results, and possessing adaptability. Proficient in computer systems, adept at problem-solving and analytical skills, experienced in overseeing support teams, and dedicated to delivering outstanding customer service.
+Dedicated and customer-focused professional seeking a Technical Support Engineer role to deliver world-class support, troubleshoot effectively, and contribute to enhancing products and processes while ensuring exceptional customer satisfaction.
 
-  
-CORE STRENGTHS
 
-Customer Service
-Troubleshooting Systems
-Troubleshooting network issues
-Help Desk Ticketing Systems
-Active Directory User Management
-Office 365 Management
-Windows 10 Administration
+Skills
+
+Proficiency in diagnosing and resolving Windows OS issues encompassing the registry, services, and related functionalities.
+Acquainted with MacOS functionality and adept at troubleshooting Mac systems.
+Familiarity with various Linux distributions and skilled in fundamental Linux issue resolution.
+Skilled in navigating and utilizing CRM systems proficiently, leveraging a variety of support tools effectively.
+Strong command of both oral and written communication, emphasizing articulate descriptions and detailed troubleshooting documentation.
+Demonstrated adaptability to emerging technologies, applying sound judgment to prioritize solutions based on customer impact.
+Thrives in collaborative environments, exhibiting robust interpersonal abilities to foster effective teamwork.
+Comprehensive understanding of virtualization platforms, foundational networking principles, and prior exposure to RMM software.
+Exhibits empathy, patience, and a problem-solving orientation, complemented by a keen sense of humor and an innate curiosity.
 
 TECHNOLOGY PROFICIENCIES
 
@@ -32,51 +34,63 @@ Hardware and Component-Level Repairs. SQL, HTML, CSS, & JavaScript.
 
 TECHNICAL EXPERIENCE
 
-Helpware Technical Support Specialist 2022 – Present
+Helpware Technical Support Specialist 2022 – November 2023
 
-I reviewed SaaS platform codes and researched cloud resources for API integration and databases, fostering relationships with customer developers while providing expert technical support, leveraging my software tech background for seamless issue resolution and enhanced user experiences.
+Worked in a dynamic SaaS environment, specializing in troubleshooting JavaScript and SQL code alongside addressing integration challenges with various resources. 
+My role extended beyond conventional support, emphasizing the cultivation of robust relationships with customer developers. Leveraging my software tech background.
+I seamlessly resolved issues, ensuring enhanced user experiences and providing expert technical support.
 
 Equity Gain IT Support 2014-2020
 
 
-Installed and managed CRM systems, maintained WordPress websites and email marketing automation, and handled video, photo editing, and diverse back-office duties.
+Installed and administered open-source CRM systems, oversaw the maintenance of WordPress websites. 
+Executed email marketing automation, and efficiently handled an array of back-office responsibilities.
 
 ECE Consulting Technical Support Specialist 2012 – 2014
 
-Performed Windows OS repairs and troubleshooting.
-Resolved networking issues.
-Installed operating systems, resolved boot errors.
-Troubleshoot and remove ransomware, and conduct data recovery.
+Executed repairs and troubleshooting for Windows OS. 
+Effectively resolved networking issues and performed operating system installations. 
+Skillfully addressed boot and registry-related problems. 
+Proficiently handled ransomware troubleshooting and removal. 
+Conducting successful data recovery operations.
 
 Sitel Technical Support 2010 – 2012
 
-Managed official Microsoft accounts & Office 365.
-Focused on Windows Security
-Troubleshoot boot issues.
-Fixed the virus and Trojan infestation.
-Performed ransomware recovery and preventive maintenance action
+Managed official Microsoft accounts and Office 365.
+Focused on Windows Security.
+Troubleshooted boot issues.
+Resolved virus and Trojan infestations.
+Performed ransomware recovery and preventive maintenance actions.
 
 HTMT Technical Support 2007 – 2010
 
-Supported Sony Corp. by troubleshooting audio and video products.
-Specialized in TVs, DVD players, Blu-ray players, receivers, and more.
+Provided technical assistance and guidance to customers on a range of consumer electronics products, addressing queries and troubleshooting issues effectively.
+Diagnosed and resolved hardware and software problems in consumer electronics devices, ensuring seamless functionality and customer satisfaction.
+
 
 Megacopy Business System Service Technician 1999 – 2004
 
-Field service technician for copier products & computers.
-Conducted the complete disassembly and refurbishment of copier & computer machines for rental
-or sale.
+Field service technician for copier products and computers.
+Conducted complete disassembly and refurbishment of copier and computer machines for rental or sale.
 
 Topros Inc. Service Technician 1995 – 1999
 
-specializes in repairing Minolta brand copiers and fax machines.
-Performed field repairs for machines sold to businesses and home users.
+Specialized in repairing Minolta brand copiers and fax machines.
+Conducted on-site repairs for machines sold to businesses and home users.
 
 Hammer Garments Electrician 1993 – 1995
 
-Responsible for general office maintenance, including electrical work.
-Maintained office machines, such as computers, fax machines, and copiers.
+Managed general office maintenance, including electrical tasks.
+Maintained and serviced office equipment, including computers, fax machines, and copiers.
 
 ACADEMIC QUALIFICATIONS
 
 Computer Technician / University of the East
+
+
+
+
+
+
+
+

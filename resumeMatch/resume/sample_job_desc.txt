@@ -1,19 +1,51 @@
-Core Responsibilities:
+· Delights customers with World-Class support which looks like timely responses to tickets including outbound calls when needed. Clear and complete updates/resolution to tickets in a timely manner and is measured in Customer Satisfaction (CSAT), positive customer comments and other indicators as appropriate.
 
-    Maximize Field Service Work Order on-site efficiency by ensuring the correct equipment, skillset, and number of technicians
-    Remotely diagnose PV system issues including non-operation and underperformance Assist in live Diagnostic Consultation with other departments via phone
-    Improve the customer experience by helping to eliminate future unnecessary service visits, contacting them proactively, and aiding them in troubleshooting techniques the customer can perform themselves
-    Provide feedback on trends you are seeing to our Diagnostics Leadership
-    Meet performance goals and metrics minimums set forth by management
-    Understanding corporate policies, the process documentation, manufacturer's specifications, and requirements.
+· Demonstrates comprehension of product(s) and is able to troubleshoot and seek root causes
 
-Qualifications:
+· Responsibly manages personal queue with response and follow-up times on par with team goals
 
-    IT proficiency (required)
-    Solar installation/design experience (preferred)
-    Knowledge of current NEC and local AHJ regulations (preferred)
-    Industry experience in solar (preferred)
-    Proficient written and verbal communication skills
-    Proficient with MS office & Google Apps
-    Customer Service experience, Inbound Call-Center experience 
-    Self-sufficient and highly self-motivated
+· Asks questions, seeks complete understanding of issues to solve customer tickets as quickly as possible and teaches (1 Touch, Total time)
+
+· Actively contributes with product and process enhancement ideas and feedback
+
+· Takes ownership of customer issues and takes all appropriate steps to resolve issues in a timely manner while keeping customers appropriately informed along the way
+
+· Understands and uses resources and tools to complete tasks and is able to escalate appropriately when needed
+
+· Demonstrates excellent communication skills which includes but not limited to clear descriptions, listening, grammar, punctuation, terminology, and trouble-shooting notes
+
+· Supports our customers by being willing to work shifts that customer’s drive (attendance)
+
+ 
+
+Skills & Qualifications
+
+ 
+
+· Adept at following processes
+
+· Remote work with Ability to be productive under limited supervision
+
+· Proficient in Windows OS (Windows registry, services, etc.) and fluency in Windows troubleshooting
+
+· Working knowledge of MacOS and Mac troubleshooting is desired
+
+· Experience with Linux distributions and Linux troubleshooting a plus
+
+· Previous experience with Zendesk a plus
+
+· Excellent oral and verbal communication skills a must
+
+· Ability to exercise good judgment of priority based on customer impact
+
+· Ability to adapt to new technologies and processes
+
+· Strong interpersonal skills so you can work in a team-oriented environment
+
+· Understanding of any virtualization platform, basic networking
+
+· Previous experience with RMM software helpful but not required
+
+· Empathy and patience
+
+· A good sense of humor and is curious a tinkerer and a problem solver
