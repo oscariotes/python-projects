@@ -1,0 +1,71 @@
+start
+|
+V
+Display options: 
+  1. Choose drink
+  2. Check resources
+  3. Refill resources
+  4. Exit
+|
+V
+If Choose drink selected:
+|
+V
+Display drink options:
+  1. Espresso
+  2. Latte
+  3. Cappuccino
+  4. Go back
+|
+V
+If drink selected:
+|
+V
+Check resources availability:
+|
+V
+If resources available:
+|
+V
+Accept coin input:
+|
+V
+If enough coins inserted:
+|
+V
+Dispense drink
+|
+V
+If insufficient coins inserted:
+|
+V
+Display error message
+|
+V
+If resources insufficient:
+|
+V
+Display error message
+|
+V
+Go back to drink options
+|
+V
+If Check resources selected:
+|
+V
+Display current resource levels
+|
+V
+If Refill resources selected:
+|
+V
+Refill water, coffee beans, milk, etc.
+|
+V
+If Exit selected:
+|
+V
+Stop
+|
+End
