@@ -1,3 +1,5 @@
+from artwork import logo
+
 MENU = {
     "espresso": {
         "ingredients": {
@@ -74,6 +76,7 @@ def brew_coffee(drink_name, order_ingredients):
 coffee_machine_on = True
 
 while coffee_machine_on:
+    print(logo)
     user_order = input("What would you like? (espresso/latte/cappuccino): ").lower()
 
     if user_order == "off":
