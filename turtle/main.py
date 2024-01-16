@@ -13,3 +13,11 @@ timmy_the_turtle.setheading(0)
 
 
 ######## Challenge 1 - Draw a Square ############
+
+timmy_the_turtle.clear()
+
+for _ in range(4):
+    timmy_the_turtle.forward(100)
+    timmy_the_turtle.right(90)
+
+t.mainloop()
