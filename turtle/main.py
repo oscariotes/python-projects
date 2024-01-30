@@ -24,12 +24,29 @@ timmy_the_turtle.color("red")
 # ************ Draw Dashes **************
 
 
-for _ in range(20):
+""" for _ in range(20):
     timmy_the_turtle.forward(10)
     timmy_the_turtle.penup()
     timmy_the_turtle.forward(10)
     timmy_the_turtle.pendown()
+ """
 
+# for _ in range(3):
+#     timmy_the_turtle.backward(-120)
+#     # timmy_the_turtle.left(-120)
+#     # timmy_the_turtle.backward(100)
+#     # timmy_the_turtle.left(-120)
+
+def draw_shape(number_of_sides):
+    angle = 360 / number_of_sides
+    for _ in range(number_of_sides):
+        timmy_the_turtle.forward(100)
+        timmy_the_turtle.right(angle)
+
+
+for shape in range (3, 11):
+    draw_shape(shape)
+    
 
 
 t.exitonclick()

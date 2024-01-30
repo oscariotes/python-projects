@@ -8,7 +8,7 @@ Given a non-negative integer, 3 for example, return a string with a murmur: "1 s
 
 def count_sheep(n):
     count = ''
-    for i in range(0, n+1):
+    for i in range(1, n+1):
         count = count + f"{i} sheep..."
     return count
     
